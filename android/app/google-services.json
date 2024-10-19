@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695229204019",
+    "project_id": "in-home-cooking",
+    "storage_bucket": "in-home-cooking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695229204019:android:f17ee352a8196809c88546",
+        "android_client_info": {
+          "package_name": "co.inhomecooking.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695229204019-a680fi8psr6cnn8mrua5viu152dbol3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX665hEDNzdYG18ZBXPuK2yJZC3AHWEaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695229204019-a680fi8psr6cnn8mrua5viu152dbol3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
